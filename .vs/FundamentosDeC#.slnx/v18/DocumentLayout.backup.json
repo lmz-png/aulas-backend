@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\44193184811\\source\\repos\\FundamentosDeC#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A39EC1B1-B5CA-41BD-8A2F-89B4AC5B6159}|..\\Estrutura Repeti\u00E7\u00E3o\\Estrutura Repeti\u00E7\u00E3o.csproj|c:\\users\\44193184811\\source\\repos\\estrutura repeti\u00E7\u00E3o\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C998D7DD-7184-468C-AAA4-52E6148E9F47}|FundamentosDeC#.csproj|c:\\users\\44193184811\\source\\repos\\fundamentosdec#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C998D7DD-7184-468C-AAA4-52E6148E9F47}|FundamentosDeC#.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C998D7DD-7184-468C-AAA4-52E6148E9F47}|FundamentosDeC#.csproj|c:\\users\\44193184811\\source\\repos\\fundamentosdec#\\fundamentosdec#.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C998D7DD-7184-468C-AAA4-52E6148E9F47}|FundamentosDeC#.csproj|solutionrelative:fundamentosdec#.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49CDBA99-1C8D-4839-AF18-E8118B207B3A}|..\\OperadorComparacao\\OperadorComparacao.csproj|c:\\users\\44193184811\\source\\repos\\operadorcomparacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\44193184811\\source\\repos\\OperadorComparacao\\Program.cs",
+              "RelativeDocumentMoniker": "..\\OperadorComparacao\\Program.cs",
+              "ToolTip": "C:\\Users\\44193184811\\source\\repos\\OperadorComparacao\\Program.cs",
+              "RelativeToolTip": "..\\OperadorComparacao\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T00:34:48.656Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\44193184811\\source\\repos\\Estrutura Repeti\u00E7\u00E3o\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Estrutura Repeti\u00E7\u00E3o\\Program.cs",
+              "ToolTip": "C:\\Users\\44193184811\\source\\repos\\Estrutura Repeti\u00E7\u00E3o\\Program.cs",
+              "RelativeToolTip": "..\\Estrutura Repeti\u00E7\u00E3o\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T22:12:53.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\44193184811\\source\\repos\\FundamentosDeC#\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\44193184811\\source\\repos\\FundamentosDeC#\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABUBAAAAAAAAAAAAACcBAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T00:51:41.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FundamentosDeC#.csproj",
+              "DocumentMoniker": "C:\\Users\\44193184811\\source\\repos\\FundamentosDeC#\\FundamentosDeC#.csproj",
+              "RelativeDocumentMoniker": "FundamentosDeC#.csproj",
+              "ToolTip": "C:\\Users\\44193184811\\source\\repos\\FundamentosDeC#\\FundamentosDeC#.csproj",
+              "RelativeToolTip": "FundamentosDeC#.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-11T00:35:43.094Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
